@@ -3,7 +3,8 @@ Remove age dependency in order to predict the equivalent age of children affecte
 
 # License
 
-No license in the original repository
+- No license in the original repository
+- GPLv3 in this repository
 
 
 
